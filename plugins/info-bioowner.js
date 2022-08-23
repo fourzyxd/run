@@ -1,24 +1,24 @@
 let handler = async (m, { conn }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `*───────[ BIODATA OWNER ]───────*
-*💌 Nama* : Sad-Bot
-*✉️ Nama RL* : Fahri
+*💌 Nama* : Maxy Botz MD
+*✉️ Nama RL* : KAHFI-XD 
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 10 Juni 2007
-*🎨 Umur* : 15
-*🧮 Kelas* : 9
-*🧩 Hobby* : Nonton Hanime, Chatting, Recode script bot
+*⏰ Tanggal lahir* : 08 November 2005
+*🎨 Umur* : 200
+*🧮 Kelas* : kawin
+*🧩 Hobby* : Nonton MplID, Chatting, Recode script bot
 *💬 Sifat* : Idiot, Tidak Ramah, Kanjut, Prik, Pedofil
-*🗺️ Tinggal* : Indo, Riau, Indragiri Hulu, Air Molek
-*❤️ Suka* : warnah kuning & biru, Hanime, waifu, loli, trap, furry, kucing
+*🗺️ Tinggal* : Indo, Aceh, Aceh Timur, Peunarun 
+*❤️ Suka* : warnah kuning & biru, kontol, memex, coli, trap, furry, kucing
 *💔 Benci* : autis, anak epep, seleb
 
 *───────[ SOSIAL MEDIA ]───────*
-*📷 instagran* : @bot_whangsaf
-*🇫  Facebook* : Adison Fahri
-*🏮 Chanel Youtube* : Papah-Chan
-*🐈 Github:* FahriAdison
+*📷 instagran* : @Kahfiofficial__
+*🇫  Facebook* : Memek 
+*🏮 Chanel Youtube* : Kahfi Official 🇮🇩
+*🐈 Github:* XNXX.com
 
 `
 conn.sendHydrated(m.chat, teksbio, wm, ppown, "wa.me/" + nomorown, "💬 ᴄʜᴀᴛs", null,null, [["ᴅᴏɴᴀsɪ", '.donasi'], [null, null],[null,null]], m)
